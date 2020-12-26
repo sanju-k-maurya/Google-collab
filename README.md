@@ -1,2 +1,2 @@
-# Google-collab
-Learning ML.
+# Google colaboratory notebook. 
+Contains Machine Learning files.
